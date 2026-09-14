@@ -35,5 +35,15 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void LOGIN_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
