@@ -37,11 +37,11 @@
             // 
             this.welcomeMsg.AutoSize = true;
             this.welcomeMsg.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.welcomeMsg.Font = new System.Drawing.Font("Modern No. 20", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.welcomeMsg.Font = new System.Drawing.Font("Comic Sans MS", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.welcomeMsg.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(92)))), ((int)(((byte)(46)))), ((int)(((byte)(31)))));
             this.welcomeMsg.Location = new System.Drawing.Point(150, 103);
             this.welcomeMsg.Name = "welcomeMsg";
-            this.welcomeMsg.Size = new System.Drawing.Size(463, 62);
+            this.welcomeMsg.Size = new System.Drawing.Size(531, 84);
             this.welcomeMsg.TabIndex = 0;
             this.welcomeMsg.Text = "Welcome to LMS";
             // 
@@ -49,11 +49,11 @@
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(42)))));
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button1.Font = new System.Drawing.Font("Modern No. 20", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Font = new System.Drawing.Font("Comic Sans MS", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(161, 222);
+            this.button1.Location = new System.Drawing.Point(126, 271);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(193, 62);
+            this.button1.Size = new System.Drawing.Size(231, 62);
             this.button1.TabIndex = 1;
             this.button1.Text = "Login";
             this.button1.UseVisualStyleBackColor = false;
@@ -63,11 +63,11 @@
             // 
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(63)))), ((int)(((byte)(42)))));
             this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button2.Font = new System.Drawing.Font("Modern No. 20", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Font = new System.Drawing.Font("Comic Sans MS", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(402, 222);
+            this.button2.Location = new System.Drawing.Point(468, 271);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(193, 62);
+            this.button2.Size = new System.Drawing.Size(231, 62);
             this.button2.TabIndex = 2;
             this.button2.Text = "Register";
             this.button2.UseVisualStyleBackColor = false;

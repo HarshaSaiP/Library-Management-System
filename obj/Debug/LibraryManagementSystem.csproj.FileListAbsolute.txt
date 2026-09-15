@@ -4,9 +4,9 @@ C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\bin\Debug\WindowsFormsAp
 C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
 C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LOGIN.resources
 C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
 C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Welcome.resources
 C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
 C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-C:\Users\HP\Desktop\Library Management\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
