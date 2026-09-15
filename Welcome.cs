@@ -19,16 +19,18 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            LOGIN loginForm = new LOGIN();
-            loginForm.Show();
             this.Hide();
+            LOGIN loginForm = new LOGIN();
+            loginForm.ShowDialog();
+            this.Close();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Register registerForm = new Register();
-            registerForm.Show();
             this.Hide();
+            Register registerForm = new Register();
+            registerForm.ShowDialog();
+            this.Close();
         }
     }
 }
