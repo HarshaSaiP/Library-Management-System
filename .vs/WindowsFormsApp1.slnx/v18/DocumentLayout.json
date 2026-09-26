@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B0AC8FC-1B36-491D-A9E4-2A747826F8E5}|LibraryManagementSystem.csproj|c:\\users\\hp\\desktop\\library management\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B0AC8FC-1B36-491D-A9E4-2A747826F8E5}|LibraryManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B0AC8FC-1B36-491D-A9E4-2A747826F8E5}|LibraryManagementSystem.csproj|c:\\users\\hp\\desktop\\library management\\windowsformsapp1\\librarianform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0AC8FC-1B36-491D-A9E4-2A747826F8E5}|LibraryManagementSystem.csproj|solutionrelative:librarianform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B0AC8FC-1B36-491D-A9E4-2A747826F8E5}|LibraryManagementSystem.csproj|C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2B0AC8FC-1B36-491D-A9E4-2A747826F8E5}|LibraryManagementSystem.csproj|c:\\users\\hp\\desktop\\library management\\windowsformsapp1\\userhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B0AC8FC-1B36-491D-A9E4-2A747826F8E5}|LibraryManagementSystem.csproj|solutionrelative:userhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0AC8FC-1B36-491D-A9E4-2A747826F8E5}|LibraryManagementSystem.csproj|c:\\users\\hp\\desktop\\library management\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2B0AC8FC-1B36-491D-A9E4-2A747826F8E5}|LibraryManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,31 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\Login.cs",
-              "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\Login.cs",
-              "RelativeToolTip": "Login.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswDEAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "userHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\userHome.cs",
+              "RelativeDocumentMoniker": "userHome.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\userHome.cs [Design]",
+              "RelativeToolTip": "userHome.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T12:55:19.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-26T02:35:55.897Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\Login.cs [Design]",
               "RelativeToolTip": "Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T05:55:30.917Z",
+              "WhenOpened": "2026-09-26T02:33:54.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrarianForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\LibrarianForm.cs",
+              "RelativeDocumentMoniker": "LibrarianForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Library Management\\WindowsFormsApp1\\LibrarianForm.cs [Design]",
+              "RelativeToolTip": "LibrarianForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T02:12:44.238Z",
               "EditorCaption": " [Design]"
             }
           ]

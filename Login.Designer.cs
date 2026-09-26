@@ -119,7 +119,7 @@
             this.Controls.Add(this.loginpanel);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "LOGIN";
-            this.Text = "Library Management";
+            this.Text = "Login";
             this.Load += new System.EventHandler(this.LOGIN_Load);
             this.loginpanel.ResumeLayout(false);
             this.loginpanel.PerformLayout();
